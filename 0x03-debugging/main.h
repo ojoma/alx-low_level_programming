@@ -5,7 +5,7 @@
 /*
  * 
  * 
- * Desc: Header file containing prototypes to out positive or negative number
+ * Header: file containing prototypes to out positive or negative number
  *       used in the 0x03-more_functions_nested_loops directory.
  */
 
