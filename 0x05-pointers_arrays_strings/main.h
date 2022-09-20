@@ -3,6 +3,7 @@
 
 void _puts(char *str);
 void print_rev(char *s);
+void rev_string(char *s);
 char _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
