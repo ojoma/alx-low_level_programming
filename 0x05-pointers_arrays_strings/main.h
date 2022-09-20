@@ -4,6 +4,7 @@
 void _puts(char *str);
 void print_rev(char *s);
 void rev_string(char *s);
+void puts2(char *str);
 char _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
