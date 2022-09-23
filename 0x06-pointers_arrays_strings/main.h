@@ -12,6 +12,7 @@ char *cap_string(char *);
 char *leet(char *s);
 char *rot13(char *);
 void _puts(char *str);
+void print_number(int n);
 void print_rev(char *s);
 void rev_string(char *s);
 void puts2(char *str);
